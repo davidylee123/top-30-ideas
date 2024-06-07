@@ -1,0 +1,8 @@
+{
+  "dialect": "postgresql",
+  "out": "./migrations-folder",
+  "schema": "./utils/schema.js",
+  "breakpoints": false,
+  "driver": "pg",
+  "connectionString": "postgresql://neondb_owner:pQCOqMZzE52s@ep-delicate-water-a56sw6ld.us-east-2.aws.neon.tech/neondb?sslmode=require"
+}
